@@ -88,6 +88,7 @@
 }
 .hero2 {
   width: 1440px;
+  display: flex;
   flex-direction: row;
   gap: 55px;
 }
